@@ -1,0 +1,64 @@
+{
+  "cards": [
+    {
+      "title": "San Andres",
+      "desc": "Lindas praias movimentadas na Colômbia",
+      "image": "images/photo-1721853594127-b7c82f426207.jpeg"
+    },
+    {
+      "title": "Grécia",
+      "desc": "Ilhas paradisíacas e história milenar",
+      "image": "images/photo-1767978935338-7b0c923a60d7.jpeg"
+    },
+    {
+      "title": "Chile",
+      "desc": "Destinos quentes e frios em um só país",
+      "image": "images/photo-1486944670663-e0a2ea5018eb.jpeg"
+    },
+    {
+      "title": "Paris",
+      "desc": "Romantismo e cultura na cidade luz",
+      "image": "images/photo-1511739001486-6bfe10ce785f.jpeg"
+    },
+    {
+      "title": "Roma",
+      "desc": "A eterna cidade te espera",
+      "image": "images/photo-1520250497591-112f2f40a3f4.jpeg"
+    },
+    {
+      "title": "Nova York",
+      "desc": "A cidade que nunca dorme",
+      "image": "images/photo-1535262412227-85541e910204.jpeg"
+    },
+    {
+      "title": "Lisboa",
+      "desc": "Charme europeu com clima ameno",
+      "image": "images/photo-1576475510454-b0af18970e6d.jpeg"
+    },
+    {
+      "title": "Cancún",
+      "desc": "Praias caribenhas de tirar o fôlego",
+      "image": "images/photo-1578704410892-86dbdab9b4e8.jpeg"
+    },
+    {
+      "title": "Punta Cana",
+      "desc": "All inclusive e mar azul turquesa",
+      "image": "images/photo-1586500036065-bdaeac7a4feb.jpeg"
+    },
+    {
+      "title": "Buenos Aires",
+      "desc": "Tango, gastronomia e boa vizinhança",
+      "image": "images/photo-1590523741831-ab7e8b8f9c7f.jpeg"
+    },
+    {
+      "title": "Dubai",
+      "desc": "Luxo e modernidade no deserto",
+      "image": "images/photo-1599640842225-85d111c60e6b.jpeg"
+    },
+    {
+      "title": "Tóquio",
+      "desc": "Tradição e inovação lado a lado",
+      "image": "images/photo-1603477849227-705c424d1d80.jpeg"
+    }
+  ]
+}

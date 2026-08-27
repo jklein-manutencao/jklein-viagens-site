@@ -1,0 +1,65 @@
+{
+  "hero_image": "images/photo-1535262412227-85541e910204.jpeg",
+  "cards": [
+    {
+      "title": "Jericoacoara",
+      "desc": "O destino obrigatório da sua próxima viagem",
+      "image": "images/photo-1767978935338-7b0c923a60d7.jpeg"
+    },
+    {
+      "title": "Porto de Galinhas",
+      "desc": "Em todas as listas de melhores destinos",
+      "image": "images/photo-1486944670663-e0a2ea5018eb.jpeg"
+    },
+    {
+      "title": "San Andres",
+      "desc": "Lindas praias movimentadas na Colômbia",
+      "image": "images/photo-1511739001486-6bfe10ce785f.jpeg"
+    },
+    {
+      "title": "Gramado",
+      "desc": "O destino mais romântico do Brasil",
+      "image": "images/photo-1520250497591-112f2f40a3f4.jpeg"
+    },
+    {
+      "title": "Grécia",
+      "desc": "Um dos destinos mais desejados do mundo",
+      "image": "images/photo-1535262412227-85541e910204.jpeg"
+    },
+    {
+      "title": "Monte Verde",
+      "desc": "Charme, natureza e clima de montanha",
+      "image": "images/photo-1576475510454-b0af18970e6d.jpeg"
+    },
+    {
+      "title": "Cruzeiros",
+      "desc": "A forma de viajar mais viciante",
+      "image": "images/photo-1578704410892-86dbdab9b4e8.jpeg"
+    },
+    {
+      "title": "Resorts",
+      "desc": "Seu hotel com tudo que você tem direito",
+      "image": "images/photo-1586500036065-bdaeac7a4feb.jpeg"
+    },
+    {
+      "title": "Chile",
+      "desc": "Destinos internacionais quentes e frios",
+      "image": "images/photo-1590523741831-ab7e8b8f9c7f.jpeg"
+    },
+    {
+      "title": "Fernando de Noronha",
+      "desc": "Paraíso ecológico brasileiro",
+      "image": "images/photo-1599640842225-85d111c60e6b.jpeg"
+    },
+    {
+      "title": "Búzios",
+      "desc": "Charme e praias no Rio de Janeiro",
+      "image": "images/photo-1603477849227-705c424d1d80.jpeg"
+    },
+    {
+      "title": "Paris",
+      "desc": "A cidade luz te espera",
+      "image": "images/photo-1613395877344-13d4a8e0d49e.jpeg"
+    }
+  ]
+}

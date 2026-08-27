@@ -1,0 +1,34 @@
+{
+  "cards": [
+    {
+      "title": "Costa Brasileira",
+      "desc": "Litoral do Brasil com todo conforto a bordo",
+      "image": "images/photo-1678549904010-ab1badbec689.jpeg"
+    },
+    {
+      "title": "Caribe",
+      "desc": "Praias paradisíacas em cada parada",
+      "image": "images/photo-1721853594127-b7c82f426207.jpeg"
+    },
+    {
+      "title": "Mediterrâneo",
+      "desc": "História e gastronomia em alto-mar",
+      "image": "images/photo-1767978935338-7b0c923a60d7.jpeg"
+    },
+    {
+      "title": "Norte Europeu",
+      "desc": "Fiordes e paisagens de tirar o fôlego",
+      "image": "images/photo-1486944670663-e0a2ea5018eb.jpeg"
+    },
+    {
+      "title": "Alasca",
+      "desc": "Natureza selvagem e geleiras únicas",
+      "image": "images/photo-1511739001486-6bfe10ce785f.jpeg"
+    },
+    {
+      "title": "Transatlântico",
+      "desc": "A travessia clássica dos grandes navios",
+      "image": "images/photo-1520250497591-112f2f40a3f4.jpeg"
+    }
+  ]
+}

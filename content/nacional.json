@@ -1,0 +1,64 @@
+{
+  "cards": [
+    {
+      "title": "Jericoacoara",
+      "desc": "Dunas, lagoas e pôr do sol inesquecível",
+      "image": "images/photo-1599640842225-85d111c60e6b.jpeg"
+    },
+    {
+      "title": "Porto de Galinhas",
+      "desc": "Piscinas naturais em Pernambuco",
+      "image": "images/photo-1603477849227-705c424d1d80.jpeg"
+    },
+    {
+      "title": "Gramado",
+      "desc": "Charme europeu na Serra Gaúcha",
+      "image": "images/photo-1613395877344-13d4a8e0d49e.jpeg"
+    },
+    {
+      "title": "Monte Verde",
+      "desc": "Clima de montanha em Minas Gerais",
+      "image": "images/photo-1628682711021-e1c1666ec089.jpeg"
+    },
+    {
+      "title": "Fernando de Noronha",
+      "desc": "Paraíso ecológico preservado",
+      "image": "images/photo-1668717342589-722a71ddb579.jpeg"
+    },
+    {
+      "title": "Búzios",
+      "desc": "Praias charmosas no litoral fluminense",
+      "image": "images/photo-1678549904010-ab1badbec689.jpeg"
+    },
+    {
+      "title": "Foz do Iguaçu",
+      "desc": "Uma das sete maravilhas naturais",
+      "image": "images/photo-1721853594127-b7c82f426207.jpeg"
+    },
+    {
+      "title": "Chapada Diamantina",
+      "desc": "Trilhas e cachoeiras na Bahia",
+      "image": "images/photo-1767978935338-7b0c923a60d7.jpeg"
+    },
+    {
+      "title": "Bonito",
+      "desc": "Águas cristalinas no Mato Grosso do Sul",
+      "image": "images/photo-1486944670663-e0a2ea5018eb.jpeg"
+    },
+    {
+      "title": "Rio de Janeiro",
+      "desc": "Cidade maravilhosa, sempre um bom destino",
+      "image": "images/photo-1511739001486-6bfe10ce785f.jpeg"
+    },
+    {
+      "title": "Florianópolis",
+      "desc": "Ilha da Magia e suas 42 praias",
+      "image": "images/photo-1520250497591-112f2f40a3f4.jpeg"
+    },
+    {
+      "title": "Salvador",
+      "desc": "História, cultura e mar quentinho",
+      "image": "images/photo-1535262412227-85541e910204.jpeg"
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "cards": [
+    {
+      "title": "Oferta Relâmpago",
+      "desc": "Vagas limitadas, corra antes que acabe",
+      "image": "images/photo-1535262412227-85541e910204.jpeg"
+    },
+    {
+      "title": "Pacote Família",
+      "desc": "Diversão garantida para todas as idades",
+      "image": "images/photo-1576475510454-b0af18970e6d.jpeg"
+    },
+    {
+      "title": "Lua de Mel",
+      "desc": "Pacotes românticos com tudo incluso",
+      "image": "images/photo-1578704410892-86dbdab9b4e8.jpeg"
+    },
+    {
+      "title": "Fim de Semana",
+      "desc": "Escapadas rápidas e sem complicação",
+      "image": "images/photo-1586500036065-bdaeac7a4feb.jpeg"
+    },
+    {
+      "title": "Feriado Prolongado",
+      "desc": "Aproveite os próximos feriados",
+      "image": "images/photo-1590523741831-ab7e8b8f9c7f.jpeg"
+    },
+    {
+      "title": "Réveillon",
+      "desc": "Garanta já o seu destino de virada de ano",
+      "image": "images/photo-1599640842225-85d111c60e6b.jpeg"
+    },
+    {
+      "title": "Carnaval",
+      "desc": "Os melhores destinos para curtir o Carnaval",
+      "image": "images/photo-1603477849227-705c424d1d80.jpeg"
+    },
+    {
+      "title": "Férias de Julho",
+      "desc": "Planeje agora as férias em família",
+      "image": "images/photo-1613395877344-13d4a8e0d49e.jpeg"
+    },
+    {
+      "title": "Melhor Idade",
+      "desc": "Condições especiais para viajantes 60+",
+      "image": "images/photo-1628682711021-e1c1666ec089.jpeg"
+    },
+    {
+      "title": "Grupos Fechados",
+      "desc": "Viaje com amigos em condições exclusivas",
+      "image": "images/photo-1668717342589-722a71ddb579.jpeg"
+    },
+    {
+      "title": "All Inclusive",
+      "desc": "Tudo incluso, você só se preocupa em curtir",
+      "image": "images/photo-1678549904010-ab1badbec689.jpeg"
+    },
+    {
+      "title": "Últimas Vagas",
+      "desc": "Pacotes com poucas vagas restantes",
+      "image": "images/photo-1721853594127-b7c82f426207.jpeg"
+    }
+  ]
+}
