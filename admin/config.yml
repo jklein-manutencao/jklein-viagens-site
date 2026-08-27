@@ -1,0 +1,106 @@
+backend:
+  name: git-gateway
+  branch: main
+
+media_folder: "images/uploads"
+public_folder: "images/uploads"
+
+locale: "pt"
+
+collections:
+  - name: "home"
+    label: "Página Inicial"
+    files:
+      - file: "content/home.json"
+        label: "Home"
+        name: "home"
+        fields:
+          - { label: "Foto de fundo (topo da página)", name: "hero_image", widget: "image" }
+          - label: "Destinos em destaque (cards)"
+            name: "cards"
+            widget: "list"
+            summary: "{{title}}"
+            fields:
+              - { label: "Título", name: "title", widget: "string" }
+              - { label: "Descrição curta", name: "desc", widget: "string" }
+              - { label: "Foto", name: "image", widget: "image" }
+
+  - name: "internacional"
+    label: "Página Internacional"
+    files:
+      - file: "content/internacional.json"
+        label: "Internacional"
+        name: "internacional"
+        fields:
+          - label: "Destinos (cards)"
+            name: "cards"
+            widget: "list"
+            summary: "{{title}}"
+            fields:
+              - { label: "Título", name: "title", widget: "string" }
+              - { label: "Descrição curta", name: "desc", widget: "string" }
+              - { label: "Foto", name: "image", widget: "image" }
+
+  - name: "nacional"
+    label: "Página Nacional"
+    files:
+      - file: "content/nacional.json"
+        label: "Nacional"
+        name: "nacional"
+        fields:
+          - label: "Destinos (cards)"
+            name: "cards"
+            widget: "list"
+            summary: "{{title}}"
+            fields:
+              - { label: "Título", name: "title", widget: "string" }
+              - { label: "Descrição curta", name: "desc", widget: "string" }
+              - { label: "Foto", name: "image", widget: "image" }
+
+  - name: "cruzeiros"
+    label: "Página Cruzeiros"
+    files:
+      - file: "content/cruzeiros.json"
+        label: "Cruzeiros"
+        name: "cruzeiros"
+        fields:
+          - label: "Cruzeiros (cards)"
+            name: "cards"
+            widget: "list"
+            summary: "{{title}}"
+            fields:
+              - { label: "Título", name: "title", widget: "string" }
+              - { label: "Descrição curta", name: "desc", widget: "string" }
+              - { label: "Foto", name: "image", widget: "image" }
+
+  - name: "passagens"
+    label: "Página Passagens"
+    files:
+      - file: "content/passagens.json"
+        label: "Passagens"
+        name: "passagens"
+        fields:
+          - label: "Categorias (cards)"
+            name: "cards"
+            widget: "list"
+            summary: "{{title}}"
+            fields:
+              - { label: "Título", name: "title", widget: "string" }
+              - { label: "Descrição curta", name: "desc", widget: "string" }
+              - { label: "Foto", name: "image", widget: "image" }
+
+  - name: "ofertas"
+    label: "Página Ofertas"
+    files:
+      - file: "content/ofertas.json"
+        label: "Ofertas"
+        name: "ofertas"
+        fields:
+          - label: "Ofertas (cards - foto em pé, formato 9:16)"
+            name: "cards"
+            widget: "list"
+            summary: "{{title}}"
+            fields:
+              - { label: "Título", name: "title", widget: "string" }
+              - { label: "Descrição curta", name: "desc", widget: "string" }
+              - { label: "Foto (vertical, celular)", name: "image", widget: "image" }
