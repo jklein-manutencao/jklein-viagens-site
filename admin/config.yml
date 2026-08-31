@@ -24,6 +24,7 @@ collections:
               - { label: "Título", name: "title", widget: "string" }
               - { label: "Descrição curta", name: "desc", widget: "string" }
               - { label: "Foto", name: "image", widget: "image" }
+              - { label: "Link do botão \"Saiba mais\"", name: "link", widget: "string", default: "https://w.app/jkleinviagens" }
 
   - name: "internacional"
     label: "Página Internacional"
@@ -40,6 +41,7 @@ collections:
               - { label: "Título", name: "title", widget: "string" }
               - { label: "Descrição curta", name: "desc", widget: "string" }
               - { label: "Foto", name: "image", widget: "image" }
+              - { label: "Link do botão \"Saiba mais\"", name: "link", widget: "string", default: "https://w.app/jkleinviagens" }
 
   - name: "nacional"
     label: "Página Nacional"
@@ -56,6 +58,7 @@ collections:
               - { label: "Título", name: "title", widget: "string" }
               - { label: "Descrição curta", name: "desc", widget: "string" }
               - { label: "Foto", name: "image", widget: "image" }
+              - { label: "Link do botão \"Saiba mais\"", name: "link", widget: "string", default: "https://w.app/jkleinviagens" }
 
   - name: "cruzeiros"
     label: "Página Cruzeiros"
@@ -72,6 +75,7 @@ collections:
               - { label: "Título", name: "title", widget: "string" }
               - { label: "Descrição curta", name: "desc", widget: "string" }
               - { label: "Foto", name: "image", widget: "image" }
+              - { label: "Link do botão \"Saiba mais\"", name: "link", widget: "string", default: "https://w.app/jkleinviagens" }
 
   - name: "passagens"
     label: "Página Passagens"
@@ -88,6 +92,7 @@ collections:
               - { label: "Título", name: "title", widget: "string" }
               - { label: "Descrição curta", name: "desc", widget: "string" }
               - { label: "Foto", name: "image", widget: "image" }
+              - { label: "Link do botão \"Saiba mais\"", name: "link", widget: "string", default: "https://w.app/jkleinviagens" }
 
   - name: "ofertas"
     label: "Página Ofertas"
@@ -104,3 +109,4 @@ collections:
               - { label: "Título", name: "title", widget: "string" }
               - { label: "Descrição curta", name: "desc", widget: "string" }
               - { label: "Foto (vertical, celular)", name: "image", widget: "image" }
+              - { label: "Link do botão \"Saiba mais\"", name: "link", widget: "string", default: "https://w.app/jkleinviagens" }

@@ -1,34 +1,52 @@
 {
   "cards": [
     {
-      "title": "Passagens Nacionais",
-      "desc": "As melhores tarifas dentro do Brasil",
-      "image": "images/photo-1767978935338-7b0c923a60d7.jpeg"
+      "title": "Nova York",
+      "desc": "Passagens para a cidade que nunca dorme",
+      "image": "images/passagens/passagem (1).jpg",
+      "link": "https://wa.me/5511946035963?text=Adorei%20a%20id%C3%A9ia%20de%20ir%20para%20Nova%20York.%20Vamos%20conversar%3F"
     },
     {
-      "title": "Passagens Internacionais",
-      "desc": "Voos para os principais destinos do mundo",
-      "image": "images/photo-1486944670663-e0a2ea5018eb.jpeg"
+      "title": "Miami",
+      "desc": "Sol, compras e praia na Flórida",
+      "image": "images/passagens/passagem (2).jpg",
+      "link": "https://wa.me/5511946035963?text=Adorei%20a%20id%C3%A9ia%20de%20ir%20para%20Miami.%20Vamos%20conversar%3F"
     },
     {
-      "title": "Passagens Promocionais",
-      "desc": "Ofertas por tempo limitado",
-      "image": "images/photo-1511739001486-6bfe10ce785f.jpeg"
+      "title": "Lisboa",
+      "desc": "Charme europeu com clima ameno",
+      "image": "images/passagens/passagem (3).jpg",
+      "link": "https://wa.me/5511946035963?text=Adorei%20a%20id%C3%A9ia%20de%20ir%20para%20Lisboa.%20Vamos%20conversar%3F"
     },
     {
-      "title": "Última Hora",
-      "desc": "Saiu barato e saiu rápido",
-      "image": "images/photo-1520250497591-112f2f40a3f4.jpeg"
+      "title": "Paris",
+      "desc": "A cidade luz te espera",
+      "image": "images/passagens/passagem (4).jpg",
+      "link": "https://wa.me/5511946035963?text=Adorei%20a%20id%C3%A9ia%20de%20ir%20para%20Paris.%20Vamos%20conversar%3F"
     },
     {
-      "title": "Grupos e Famílias",
-      "desc": "Condições especiais para viajar acompanhado",
-      "image": "images/photo-1535262412227-85541e910204.jpeg"
+      "title": "Buenos Aires",
+      "desc": "Tango, gastronomia e boa vizinhança",
+      "image": "images/passagens/passagem (5).jpg",
+      "link": "https://wa.me/5511946035963?text=Adorei%20a%20id%C3%A9ia%20de%20ir%20para%20Buenos%20Aires.%20Vamos%20conversar%3F"
     },
     {
-      "title": "Lua de Mel",
-      "desc": "Passagens para começar bem a nova fase",
-      "image": "images/photo-1576475510454-b0af18970e6d.jpeg"
+      "title": "Cancún",
+      "desc": "Praias caribenhas de tirar o fôlego",
+      "image": "images/passagens/passagem (6).jpg",
+      "link": "https://wa.me/5511946035963?text=Adorei%20a%20id%C3%A9ia%20de%20ir%20para%20Canc%C3%BAn.%20Vamos%20conversar%3F"
+    },
+    {
+      "title": "Orlando",
+      "desc": "Parques temáticos para toda a família",
+      "image": "images/passagens/passagem (7).jpg",
+      "link": "https://wa.me/5511946035963?text=Adorei%20a%20id%C3%A9ia%20de%20ir%20para%20Orlando.%20Vamos%20conversar%3F"
+    },
+    {
+      "title": "Roma",
+      "desc": "A eterna cidade te espera",
+      "image": "images/passagens/passagem (8).jpg",
+      "link": "https://wa.me/5511946035963?text=Adorei%20a%20id%C3%A9ia%20de%20ir%20para%20Roma.%20Vamos%20conversar%3F"
     }
   ]
 }

@@ -1,64 +1,76 @@
 {
   "cards": [
     {
-      "title": "San Andres",
-      "desc": "Lindas praias movimentadas na Colômbia",
-      "image": "images/photo-1721853594127-b7c82f426207.jpeg"
+      "title": "Buenos Aires Essencial",
+      "desc": "Aéreo GOL, hospedagem, transfers e city tour em 5 dias",
+      "image": "images/internacionais/internacional (1).png",
+      "link": "https://wa.me/5511946035963?text=Adorei%20a%20id%C3%A9ia%20de%20ir%20para%20Buenos%20Aires%20Essencial.%20Vamos%20conversar%3F"
+    },
+    {
+      "title": "Cancún - The Grand Oasis",
+      "desc": "All inclusive à beira-mar com aéreo incluso",
+      "image": "images/internacionais/internacional (2).png",
+      "link": "https://wa.me/5511946035963?text=Adorei%20a%20id%C3%A9ia%20de%20ir%20para%20Canc%C3%BAn%20-%20The%20Grand%20Oasis.%20Vamos%20conversar%3F"
+    },
+    {
+      "title": "Admirável Turquia",
+      "desc": "Istambul, Capadócia e mais em circuito de 10 dias, 2º passageiro grátis",
+      "image": "images/internacionais/internacional (3).png",
+      "link": "https://wa.me/5511946035963?text=Adorei%20a%20id%C3%A9ia%20de%20ir%20para%20Admir%C3%A1vel%20Turquia.%20Vamos%20conversar%3F"
+    },
+    {
+      "title": "Orlando com Parques",
+      "desc": "Walt Disney World, Epic Universe e Universal em um só pacote",
+      "image": "images/internacionais/internacional (4).png",
+      "link": "https://wa.me/5511946035963?text=Adorei%20a%20id%C3%A9ia%20de%20ir%20para%20Orlando%20com%20Parques.%20Vamos%20conversar%3F"
+    },
+    {
+      "title": "Itália Bela",
+      "desc": "Milão, Veneza, Florença e mais em circuito de 9 dias",
+      "image": "images/internacionais/internacional (5).png",
+      "link": "https://wa.me/5511946035963?text=Adorei%20a%20id%C3%A9ia%20de%20ir%20para%20It%C3%A1lia%20Bela.%20Vamos%20conversar%3F"
+    },
+    {
+      "title": "Japão com o Monte Fuji",
+      "desc": "Tóquio, Kawaguchiko e Quioto em 8 dias",
+      "image": "images/internacionais/internacional (6).png",
+      "link": "https://wa.me/5511946035963?text=Adorei%20a%20id%C3%A9ia%20de%20ir%20para%20Jap%C3%A3o%20com%20o%20Monte%20Fuji.%20Vamos%20conversar%3F"
+    },
+    {
+      "title": "Mendoza Encantadora",
+      "desc": "Vinícolas, Cordilheira dos Andes e degustação de vinhos",
+      "image": "images/internacionais/internacional (7).png",
+      "link": "https://wa.me/5511946035963?text=Adorei%20a%20id%C3%A9ia%20de%20ir%20para%20Mendoza%20Encantadora.%20Vamos%20conversar%3F"
+    },
+    {
+      "title": "Um Despertar em Machu Picchu",
+      "desc": "Lima, Cusco, Vale Sagrado e Machu Picchu em 7 dias",
+      "image": "images/internacionais/internacional (8).png",
+      "link": "https://wa.me/5511946035963?text=Adorei%20a%20id%C3%A9ia%20de%20ir%20para%20Um%20Despertar%20em%20Machu%20Picchu.%20Vamos%20conversar%3F"
+    },
+    {
+      "title": "Santiago Essencial",
+      "desc": "Aéreo LATAM, hospedagem e city tour em 6 dias",
+      "image": "images/internacionais/internacional (9).png",
+      "link": "https://wa.me/5511946035963?text=Adorei%20a%20id%C3%A9ia%20de%20ir%20para%20Santiago%20Essencial.%20Vamos%20conversar%3F"
+    },
+    {
+      "title": "Uruguai - Escapada a Montevidéu",
+      "desc": "City tour, Punta del Este e mais em 6 dias",
+      "image": "images/internacionais/internacional (10).png",
+      "link": "https://wa.me/5511946035963?text=Adorei%20a%20id%C3%A9ia%20de%20ir%20para%20Uruguai%20-%20Escapada%20a%20Montevid%C3%A9u.%20Vamos%20conversar%3F"
+    },
+    {
+      "title": "Paris",
+      "desc": "A cidade luz te espera",
+      "image": "images/internacionais/internacional (12).png",
+      "link": "https://wa.me/5511946035963?text=Adorei%20a%20id%C3%A9ia%20de%20ir%20para%20Paris.%20Vamos%20conversar%3F"
     },
     {
       "title": "Grécia",
       "desc": "Ilhas paradisíacas e história milenar",
-      "image": "images/photo-1767978935338-7b0c923a60d7.jpeg"
-    },
-    {
-      "title": "Chile",
-      "desc": "Destinos quentes e frios em um só país",
-      "image": "images/photo-1486944670663-e0a2ea5018eb.jpeg"
-    },
-    {
-      "title": "Paris",
-      "desc": "Romantismo e cultura na cidade luz",
-      "image": "images/photo-1511739001486-6bfe10ce785f.jpeg"
-    },
-    {
-      "title": "Roma",
-      "desc": "A eterna cidade te espera",
-      "image": "images/photo-1520250497591-112f2f40a3f4.jpeg"
-    },
-    {
-      "title": "Nova York",
-      "desc": "A cidade que nunca dorme",
-      "image": "images/photo-1535262412227-85541e910204.jpeg"
-    },
-    {
-      "title": "Lisboa",
-      "desc": "Charme europeu com clima ameno",
-      "image": "images/photo-1576475510454-b0af18970e6d.jpeg"
-    },
-    {
-      "title": "Cancún",
-      "desc": "Praias caribenhas de tirar o fôlego",
-      "image": "images/photo-1578704410892-86dbdab9b4e8.jpeg"
-    },
-    {
-      "title": "Punta Cana",
-      "desc": "All inclusive e mar azul turquesa",
-      "image": "images/photo-1586500036065-bdaeac7a4feb.jpeg"
-    },
-    {
-      "title": "Buenos Aires",
-      "desc": "Tango, gastronomia e boa vizinhança",
-      "image": "images/photo-1590523741831-ab7e8b8f9c7f.jpeg"
-    },
-    {
-      "title": "Dubai",
-      "desc": "Luxo e modernidade no deserto",
-      "image": "images/photo-1599640842225-85d111c60e6b.jpeg"
-    },
-    {
-      "title": "Tóquio",
-      "desc": "Tradição e inovação lado a lado",
-      "image": "images/photo-1603477849227-705c424d1d80.jpeg"
+      "image": "images/internacionais/grecia.jpeg",
+      "link": "https://wa.me/5511946035963?text=Adorei%20a%20id%C3%A9ia%20de%20ir%20para%20Gr%C3%A9cia.%20Vamos%20conversar%3F"
     }
   ]
 }

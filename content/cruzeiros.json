@@ -1,34 +1,52 @@
 {
   "cards": [
     {
-      "title": "Costa Brasileira",
-      "desc": "Litoral do Brasil com todo conforto a bordo",
-      "image": "images/photo-1678549904010-ab1badbec689.jpeg"
+      "title": "Réveillon em Alto-Mar 2027",
+      "desc": "4 noites, MSC Divina, virada com fogos em Copacabana",
+      "image": "images/cruzeiros/cruzeiro (1).png",
+      "link": "https://wa.me/5511946035963?text=Adorei%20a%20id%C3%A9ia%20de%20ir%20para%20R%C3%A9veillon%20em%20Alto-Mar%202027.%20Vamos%20conversar%3F"
     },
     {
-      "title": "Caribe",
-      "desc": "Praias paradisíacas em cada parada",
-      "image": "images/photo-1721853594127-b7c82f426207.jpeg"
+      "title": "Nordeste All Inclusive",
+      "desc": "Navio Buenavista saindo do Rio de Janeiro, com seguro viagem",
+      "image": "images/cruzeiros/cruzeiro (2).png",
+      "link": "https://wa.me/5511946035963?text=Adorei%20a%20id%C3%A9ia%20de%20ir%20para%20Nordeste%20All%20Inclusive.%20Vamos%20conversar%3F"
     },
     {
-      "title": "Mediterrâneo",
-      "desc": "História e gastronomia em alto-mar",
-      "image": "images/photo-1767978935338-7b0c923a60d7.jpeg"
+      "title": "Caribe Sem Visto",
+      "desc": "Aéreo, cruzeiro Costa Fascinosa e transfers inclusos",
+      "image": "images/cruzeiros/cruzeiro (3).png",
+      "link": "https://wa.me/5511946035963?text=Adorei%20a%20id%C3%A9ia%20de%20ir%20para%20Caribe%20Sem%20Visto.%20Vamos%20conversar%3F"
     },
     {
-      "title": "Norte Europeu",
-      "desc": "Fiordes e paisagens de tirar o fôlego",
-      "image": "images/photo-1486944670663-e0a2ea5018eb.jpeg"
+      "title": "Em breve",
+      "desc": "Nova oferta de cruzeiro chegando em breve",
+      "image": "images/cruzeiros/cruzeiro (4).png",
+      "link": "https://wa.me/5511946035963"
     },
     {
-      "title": "Alasca",
-      "desc": "Natureza selvagem e geleiras únicas",
-      "image": "images/photo-1511739001486-6bfe10ce785f.jpeg"
+      "title": "Em breve",
+      "desc": "Nova oferta de cruzeiro chegando em breve",
+      "image": "images/cruzeiros/cruzeiro (5).png",
+      "link": "https://wa.me/5511946035963"
     },
     {
-      "title": "Transatlântico",
-      "desc": "A travessia clássica dos grandes navios",
-      "image": "images/photo-1520250497591-112f2f40a3f4.jpeg"
+      "title": "Em breve",
+      "desc": "Nova oferta de cruzeiro chegando em breve",
+      "image": "images/cruzeiros/cruzeiro (6).png",
+      "link": "https://wa.me/5511946035963"
+    },
+    {
+      "title": "Em breve",
+      "desc": "Nova oferta de cruzeiro chegando em breve",
+      "image": "images/cruzeiros/cruzeiro (7).png",
+      "link": "https://wa.me/5511946035963"
+    },
+    {
+      "title": "Em breve",
+      "desc": "Nova oferta de cruzeiro chegando em breve",
+      "image": "images/cruzeiros/cruzeiro (8).png",
+      "link": "https://wa.me/5511946035963"
     }
   ]
 }
