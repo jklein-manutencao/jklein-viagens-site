@@ -193,16 +193,11 @@ a { color: inherit; text-decoration: none; }
   transform: translateY(-6px);
   box-shadow: 0 14px 30px rgba(28,43,58,.15);
 }
-/* Todas as fotos do site são verticais (flyers), então mostramos a imagem
-   inteira sem cortar, com fundo neutro nos espaços sobrando. */
-.card-img { aspect-ratio: 3/4; overflow: hidden; background: var(--light-bg); }
-.card-img img { width: 100%; height: 100%; object-fit: contain; }
+/* Fotos do site são no formato celular (9:16), preenchendo a caixa inteira. */
+.card-img { aspect-ratio: 9/16; overflow: hidden; }
+.card-img img { width: 100%; height: 100%; object-fit: cover; }
 
-/* Ofertas: 8 imagens em 4 colunas x 2 linhas (padrão das outras páginas).
-   As imagens têm proporções diferentes entre si (algumas verticais, outras não),
-   então mostramos a imagem inteira sem cortar, com fundo neutro ao redor. */
-.grid-portrait .card-img { aspect-ratio: 9/16; background: var(--light-bg); }
-.grid-portrait .card-img img { object-fit: contain; }
+/* Ofertas: 8 imagens em 4 colunas x 2 linhas (padrão das outras páginas) */
 .grid-portrait { grid-template-columns: repeat(4, 1fr); }
 @media (max-width: 980px) { .grid-portrait { grid-template-columns: repeat(2, 1fr); } }
 @media (max-width: 760px) { .grid-portrait { grid-template-columns: 1fr; } }
