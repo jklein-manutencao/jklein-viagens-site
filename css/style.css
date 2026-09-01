@@ -196,9 +196,10 @@ a { color: inherit; text-decoration: none; }
 .card-img { aspect-ratio: 4/3; overflow: hidden; }
 .card-img img { width: 100%; height: 100%; object-fit: cover; }
 
-/* Ofertas: fotos em formato retrato (celular, 9:16), 8 imagens em 2 colunas x 4 linhas */
+/* Ofertas: fotos em formato retrato (celular, 9:16), 8 imagens em 4 colunas x 2 linhas (padrão das outras páginas) */
 .grid-portrait .card-img { aspect-ratio: 9/16; }
-.grid-portrait { grid-template-columns: repeat(2, 1fr); max-width: 700px; margin: 0 auto; }
+.grid-portrait { grid-template-columns: repeat(4, 1fr); }
+@media (max-width: 980px) { .grid-portrait { grid-template-columns: repeat(2, 1fr); } }
 @media (max-width: 760px) { .grid-portrait { grid-template-columns: 1fr; } }
 .card-body { padding: 18px 20px 22px; flex: 1; display: flex; flex-direction: column; }
 .card-body h3 { font-size: 1.1rem; margin-bottom: .3em; }
