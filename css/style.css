@@ -196,8 +196,11 @@ a { color: inherit; text-decoration: none; }
 .card-img { aspect-ratio: 4/3; overflow: hidden; }
 .card-img img { width: 100%; height: 100%; object-fit: cover; }
 
-/* Ofertas: fotos em formato retrato (celular, 9:16), 8 imagens em 4 colunas x 2 linhas (padrão das outras páginas) */
-.grid-portrait .card-img { aspect-ratio: 9/16; }
+/* Ofertas: 8 imagens em 4 colunas x 2 linhas (padrão das outras páginas).
+   As imagens têm proporções diferentes entre si (algumas verticais, outras não),
+   então mostramos a imagem inteira sem cortar, com fundo neutro ao redor. */
+.grid-portrait .card-img { aspect-ratio: 9/16; background: var(--light-bg); }
+.grid-portrait .card-img img { object-fit: contain; }
 .grid-portrait { grid-template-columns: repeat(4, 1fr); }
 @media (max-width: 980px) { .grid-portrait { grid-template-columns: repeat(2, 1fr); } }
 @media (max-width: 760px) { .grid-portrait { grid-template-columns: 1fr; } }
